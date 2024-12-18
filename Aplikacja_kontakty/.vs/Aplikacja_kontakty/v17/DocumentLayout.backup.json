@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|c:\\users\\xdzej\\zarzarzadzanie-kontaktami\\aplikacja_kontakty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|c:\\users\\xdzej\\zarzarzadzanie-kontaktami\\aplikacja_kontakty\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|solutionrelative:contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|c:\\users\\xdzej\\zarzarzadzanie-kontaktami\\aplikacja_kontakty\\icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|solutionrelative:icontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Contact.cs",
+              "RelativeDocumentMoniker": "Contact.cs",
+              "ToolTip": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Contact.cs",
+              "RelativeToolTip": "Contact.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:46:08.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContact.cs",
+              "DocumentMoniker": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\IContact.cs",
+              "RelativeDocumentMoniker": "IContact.cs",
+              "ToolTip": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\IContact.cs",
+              "RelativeToolTip": "IContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:44:20.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:17:27.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
