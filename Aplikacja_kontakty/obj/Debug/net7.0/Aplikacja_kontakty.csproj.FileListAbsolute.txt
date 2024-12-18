@@ -1,0 +1,15 @@
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.AssemblyInfoInputs.cache
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.AssemblyInfo.cs
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.csproj.CoreCompileInputs.cache
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.sourcelink.json
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.exe
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.deps.json
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.runtimeconfig.json
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.dll
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.pdb
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.dll
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\refint\Aplikacja_kontakty.dll
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.pdb
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.genruntimeconfig.cache
+C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\ref\Aplikacja_kontakty.dll
