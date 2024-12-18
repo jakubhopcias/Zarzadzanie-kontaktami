@@ -18,12 +18,19 @@ namespace Aplikacja_kontakty
 
         public Contact(int id, string firstName, string lastName, string phoneNumber, string email)
         {
-         
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            PhoneNumber = phoneNumber;
+            Email = email;
+            CreatedAt = DateTime.Now;
+            UpdatedAt = DateTime.Now;
         }
 
         public override string ToString()
         {
-            return "";
+            return $"ID: {Id}, Imię: {FirstName}, Nazwisko: {LastName}, Telefon: {PhoneNumber}, Email: {Email}, " +
+                   $"Data utworzenia: {CreatedAt}, Data edycji: {UpdatedAt}";
         }
     }
 
