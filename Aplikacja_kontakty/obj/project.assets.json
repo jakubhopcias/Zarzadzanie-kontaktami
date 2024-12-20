@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\xdzEJ\\.nuget\\packages\\": {}
+    "C:\\Users\\Zenon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Aplikacja_kontakty.csproj",
+      "projectUniqueName": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Aplikacja_kontakty\\Aplikacja_kontakty.csproj",
       "projectName": "Aplikacja_kontakty",
-      "projectPath": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Aplikacja_kontakty.csproj",
-      "packagesPath": "C:\\Users\\xdzEJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\obj\\",
+      "projectPath": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Aplikacja_kontakty\\Aplikacja_kontakty.csproj",
+      "packagesPath": "C:\\Users\\Zenon\\.nuget\\packages\\",
+      "outputPath": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Aplikacja_kontakty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xdzEJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Zenon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,30 +56,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.20, 7.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
