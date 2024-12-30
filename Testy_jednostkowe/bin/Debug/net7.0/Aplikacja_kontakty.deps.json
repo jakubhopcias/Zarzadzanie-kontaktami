@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Aplikacja_kontakty/1.0.0": {
+        "runtime": {
+          "Aplikacja_kontakty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplikacja_kontakty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

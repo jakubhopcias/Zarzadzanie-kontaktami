@@ -13,3 +13,18 @@ C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\ref
 C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.pdb
 C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.genruntimeconfig.cache
 C:\Users\xdzEJ\Zarzarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\ref\Aplikacja_kontakty.dll
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.exe
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.deps.json
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.runtimeconfig.json
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.dll
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\bin\Debug\net7.0\Aplikacja_kontakty.pdb
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.AssemblyInfoInputs.cache
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.AssemblyInfo.cs
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.sourcelink.json
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.dll
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\refint\Aplikacja_kontakty.dll
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.pdb
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\Aplikacja_kontakty.genruntimeconfig.cache
+C:\Program Files\Git\Zarzadzanie-kontaktami\Aplikacja_kontakty\obj\Debug\net7.0\ref\Aplikacja_kontakty.dll

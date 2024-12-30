@@ -1,9 +1,15 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\",
+  "WorkspaceRootPath": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Aplikacja_kontakty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|c:\\users\\xdzej\\zarzarzadzanie-kontaktami\\aplikacja_kontakty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{464E1E45-04A1-4FAD-8745-3014EEE822AA}|..\\Testy_jednostkowe\\Testy_jednostkowe.csproj|c:\\program files\\git\\zarzadzanie-kontaktami\\testy_jednostkowe\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464E1E45-04A1-4FAD-8745-3014EEE822AA}|..\\Testy_jednostkowe\\Testy_jednostkowe.csproj|c:\\program files\\git\\zarzadzanie-kontaktami\\testy_jednostkowe\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|c:\\program files\\git\\zarzadzanie-kontaktami\\aplikacja_kontakty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A988BE74-8FF3-414A-9CD6-472C4E852C3F}|Aplikacja_kontakty.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +25,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Testy_jednostkowe\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\Testy_jednostkowe\\Test1.cs",
+              "ToolTip": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Testy_jednostkowe\\Test1.cs",
+              "RelativeToolTip": "..\\Testy_jednostkowe\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:15:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Testy_jednostkowe\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\Testy_jednostkowe\\MSTestSettings.cs",
+              "ToolTip": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Testy_jednostkowe\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\Testy_jednostkowe\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:15:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Program.cs",
+              "DocumentMoniker": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Aplikacja_kontakty\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\xdzEJ\\Zarzarzadzanie-kontaktami\\Aplikacja_kontakty\\Program.cs",
+              "ToolTip": "C:\\Program Files\\Git\\Zarzadzanie-kontaktami\\Aplikacja_kontakty\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwEEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T13:41:18.197Z",
               "EditorCaption": ""
